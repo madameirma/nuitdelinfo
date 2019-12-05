@@ -1,7 +1,11 @@
 body 
 { 
   margin: 0;
+<<<<<<< HEAD
   font-family:  sans-serif;
+=======
+  font-family: Poppins, sans-serif;
+>>>>>>> 5714ba9d591fbdad08f37462e63fc050eeab87e1
 }
 
 #header 
@@ -15,6 +19,7 @@ body
   top: 0;
   width: 100%;
   transition: 0.2s;
+<<<<<<< HEAD
   margin-top: -30px;
   display: flex;
 }
@@ -32,5 +37,7 @@ width: 5%;
 margin-left: auto;
 transition: 0.2s;
 padding-right: 30px;
+=======
+>>>>>>> 5714ba9d591fbdad08f37462e63fc050eeab87e1
 }
 
